@@ -53,7 +53,6 @@ We're always on the lookout for talented Roblox developers, scripters, and desig
 
 - 🌍 [Roblox Group](https://www.roblox.com/communities/483379788/HyperGames-Develoment-Studio)
 - 💬 [Discord Community](https://discord.gg/K8m3m2y2)
-- 📨 Contact: team@hypergames.dev
 
 ---
 
