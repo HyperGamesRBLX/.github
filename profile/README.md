@@ -4,7 +4,7 @@
   🚀 Building immersive experiences on <strong>Roblox</strong> <br>
   🎮 Scripting | Worldbuilding | Innovation <br>
   <a href="https://www.roblox.com/groups/YOUR_GROUP_ID/HyperGames">Roblox Group</a> • 
-  <a href="https://discord.gg/K8m3m2y2">Join Our Discord</a>
+  <a href="https://discord.gg/nMRyJBpgFZ">Join Our Discord</a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ We're always on the lookout for talented Roblox developers, scripters, and desig
 ## 📫 Connect With Us
 
 - 🌍 [Roblox Group](https://www.roblox.com/communities/483379788/HyperGames-Develoment-Studio)
-- 💬 [Discord Community](https://discord.gg/K8m3m2y2)
+- 💬 [Discord Community](https://discord.gg/nMRyJBpgFZ)
 
 ---
 
