@@ -28,7 +28,7 @@
 
 | Game | Genre | Status |
 |------|-------|--------|
-| **TBA** | Not Applicable | 🧪 In Development |
+| **Cave Masters** | Simulator | 🧪 In Development |
 
 ---
 
